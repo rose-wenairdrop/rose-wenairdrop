@@ -1,4 +1,14 @@
-### Hi there 👋
+<kbd>
+<img src="https://user-images.githubusercontent.com/90977910/133895099-f8d2f25f-e977-472f-8ec2-1c1ddbe97451.png" alt="drawing" width="200"/>
+</kbd>
+
+
+### Hi there, I'm **Rose** 🌹
+
+I'm working on an **Arbitrum** yield aggregator called **Wen Airdrop Finance** 🪂 together with my sister.
+
+Check us out here 💖: https://wenairdrop.finance/
+
 
 <!--
 **rose-wenairdrop/rose-wenairdrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
